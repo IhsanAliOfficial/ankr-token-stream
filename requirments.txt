@@ -1,0 +1,4 @@
+python-dotenv>=1.0.0
+# Optional (only if you plan to run the real version later):
+# web3>=6.0.0
+# eth-account>=0.7.0
